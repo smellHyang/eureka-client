@@ -10,5 +10,5 @@ eureka:
 
 spring:
   application:
-    name: eureka-client
+    name: spring-service
 
