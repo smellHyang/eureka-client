@@ -11,4 +11,6 @@ eureka:
 spring:
   application:
     name: spring-service
+  main:
+    allow-circular-references: true
 
